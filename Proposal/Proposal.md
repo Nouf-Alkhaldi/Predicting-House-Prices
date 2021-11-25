@@ -1,13 +1,15 @@
 # Predicting House Prices
 
 
-   
+ ![Logo](https://www.arazistan.com/wp-content/uploads/2020/07/Property-Prices-Crash-in-Pakistan.jpg)
+  
    
   
 
 ## Abstract
 
-This dataset contains house sale prices for King County, which includes Seattle. It's a great dataset for evaluating simple regression models.
+This dataset contains house sale prices for King County, which includes Seattle. 
+It's a great dataset for evaluating simple regression models.
 
 ## Data
 
